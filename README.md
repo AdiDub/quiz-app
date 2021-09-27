@@ -1,11 +1,12 @@
 # Quiz-Application-With-dB-Connectivity-on-Python-Tkinter-
 
-************************* Description ************************************
+# Description 
+
 This Project is Developed by me & my friend Anish for our Second Year Python Project
 It is a Quiz portal system with Register, Login, and Quiz modules. We have tried to make the backend secure by using hashing while saving sensitive information on the database.
 
 
-************************* Technologies Used ******************************
+# Technologies Used 
 - Python 3.7
 - MySQL
 - Tkinter Module
@@ -13,7 +14,7 @@ It is a Quiz portal system with Register, Login, and Quiz modules. We have tried
 - xlrd library
 
 
-************************* Instructions For Downloading ********************
+# Instructions For Downloading 
 - Install MySQL and MySQLdb library for Python
 - Install xlrd for Python
 //Use "pip install lib-name" (without quotes) or search on Youtube.
@@ -25,7 +26,7 @@ It is a Quiz portal system with Register, Login, and Quiz modules. We have tried
 In case of any errors/problems do comment!
 
 
-********************************** NOTE **********************************
+# NOTE 
 This project has been created right from scratch by doing a lot of research online. You are free to use it for your needs but do credit the developers
 Also if you are planning to use this for your College Projects make sure you go through the code so that you can have a good understanding and you can explain it to your teachers.
 
